@@ -12,9 +12,9 @@
 
 ## submitter
 
- - Chenguang Wang-Zhihong Tian-GuangZhou University
+ - Chenguang Wang-GuangZhou University
  - Zhihong Tian-GuangZhou University
-
+ - Chenguang Wang-Zhihong Tian-GuangZhou University
 ## VERSION(S)
 
 - V1.0
