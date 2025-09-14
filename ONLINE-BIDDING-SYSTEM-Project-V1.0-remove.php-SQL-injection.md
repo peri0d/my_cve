@@ -12,7 +12,8 @@
 
 ## submitter
 
-- K1nako
+ - Chenguang Wang-Zhihong Tian-GuangZhou University
+ - Zhihong Tian-GuangZhou University
 
 ## VERSION(S)
 
